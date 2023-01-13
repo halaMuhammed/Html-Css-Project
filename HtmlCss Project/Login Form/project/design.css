@@ -1,0 +1,177 @@
+.div1
+{
+    height:800px;
+    width:1200px;
+    background-color: rgb(84, 173, 214);
+    margin-left: 90px;
+    margin-top: 60px;
+    position: relative;
+
+}
+
+.head
+{
+    color: white;
+    margin-top: 50px;
+    margin-left: 470px;
+    position: absolute;
+}
+
+.tech
+{
+    color: white;
+    margin-top: 100px;
+    margin-left: 510px;
+    font-weight: bolder;
+    position: absolute;
+}
+
+
+.div2
+{
+    background-color: rgb(85, 18, 192);
+    width: 960px;
+    height: 580px;
+    margin-top: 150px;
+    margin-left: 120px;
+    position: absolute;
+}
+
+
+
+li
+{
+    list-style: none;
+    padding-left: 40px;
+    color: white;
+}
+
+ul li
+{
+    display: inline;
+}
+
+
+.group
+{
+    margin-left: 420px;
+}
+
+img
+{
+    margin-left: 280px;
+    height: 550px;
+    width: 500px;
+    margin-top: -21px;
+}
+
+
+
+.new
+{
+    color: white;
+    margin-top: -440px;
+    margin-left: 40px;
+}
+
+
+.virtual
+{
+    color: white;
+    margin-left: 40px;
+    margin-top: -10px;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.buy
+{
+    color: white;
+    margin-top: -10px;
+    margin-left: 50px;
+}
+
+.next
+{
+    color: white;
+    margin-left: 160px;
+    margin-top: -37px;
+}
+
+.site
+{
+    color: white;
+    margin-top: 170px;
+    margin-left: 45px;
+}
+
+.logo
+{
+    height: 60px;
+    width: 60px;
+    margin-top: -540px;
+    margin-left: 65px;
+    
+}
+
+.techn
+{
+    color: white;
+    margin-top: -485px;
+    margin-left: 60px;
+}
+.comp
+{
+    color: white;
+    margin-top: -470px;
+    margin-left: 70px;
+}
+
+.dis
+{
+    color: white;
+    margin-top: 500px;
+    margin-left: 800px;
+   
+}
+
+.up
+{
+    color: white;
+    margin-top: -10px;
+    margin-left: 760px;
+}
+p
+{
+    color: white;
+    margin-top: 20px;
+    margin-left: 760px;
+}
+
+.media 
+{
+   margin-left: 800px;
+   margin-top: 200px;
+   color: white;
+}
+
+.face
+{
+    margin-top: -15px;
+    margin-left: 30px;
+}
+
+.twitter
+{
+    margin-top: -15px;
+    margin-left: 50px;
+}
+
+.whatsapp
+
+{
+    margin-top: -17px;
+    margin-left: 80px;
+
+}
+
